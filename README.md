@@ -1,5 +1,8 @@
 # Laporan Proyek Machine Learning - Bayu Ardiyansyah
 
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 ## Domain Proyek
 
 **Prediksi Risiko Kredit untuk Perusahaan Multifinance**
