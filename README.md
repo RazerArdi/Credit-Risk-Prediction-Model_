@@ -11,7 +11,7 @@ Dalam industri keuangan, khususnya perusahaan pembiayaan (multifinance), kemampu
 Proyek ini bertujuan untuk membangun model prediktif yang dapat mengklasifikasikan risiko kredit peminjam sebagai **GOOD** (rendah risiko) atau **BAD** (tinggi risiko) berdasarkan data pinjaman historis dari tahun 2007–2014. Model ini akan membantu perusahaan multifinance mengurangi risiko gagal bayar dengan mengidentifikasi peminjam berisiko tinggi secara akurat. Selain itu, proyek ini mencakup pengembangan antarmuka grafis (GUI) modern menggunakan `customtkinter` untuk memudahkan petugas pinjaman dalam menggunakan model prediktif.
 
 **Mengapa Masalah Ini Penting?**  
-- **Dampak Finansial**: Menurut studi oleh McKinsey, pengelolaan risiko kredit yang efektif dapat mengurangi kerugian akibat gagal bayar hingga 20–30% [1].  
+- **Dampak Finansial**: Menurut studi oleh McKinsey, pengelolaan risiko kredit yang efektif dapat mengurangi kerugian akibat gagal bayar hingga 20–30%.  
 - **Efisiensi Operasional**: Model prediktif mengotomatiskan proses penilaian risiko, mengurangi waktu dan biaya evaluasi manual.  
 - **Kepuasan Pelanggan**: Dengan menyeimbangkan penerimaan dan penolakan pinjaman, perusahaan dapat mempertahankan pelanggan potensial sambil mengelola risiko.
 
